@@ -11,7 +11,7 @@ Also has a good amount of locally hosted games featured on the site.
 
 #### Supports
 - Youtube.com
-- Discord.com
+- Discord.com Doodles
 - Google.com
 - Reddit.com
 - Bing.com
